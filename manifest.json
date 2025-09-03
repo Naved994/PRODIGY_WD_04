@@ -1,0 +1,10 @@
+{
+    "name":"Naved Sayed",
+    "short_name":"Naved Sayed",
+    "start_url": ".",
+    "theme_color":"#343d68",
+    "background_color":"#ffffff",
+    "display":"standalone",
+    "orientation": "portrait",
+    "icons": []
+}
